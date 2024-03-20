@@ -6,3 +6,7 @@ body {
     font-family:メイリオ;
     color: #ffffff;
 }
+
+li {
+  padding: 20px;
+}
