@@ -1,4 +1,4 @@
-const menu = document.querySelector("h1");
+const menu = document.querySelector("li");
 
 menu.addEventListener("click", clickfunc);
 
